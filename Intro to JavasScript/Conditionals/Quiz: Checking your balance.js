@@ -1,9 +1,9 @@
 /*Directions:
 Using the flowchart below, write the code to represent checking your balance at the ATM. The yellow diamonds represent conditional statements and the blue rectangles with rounded 
-corners represent what should be printed to the console.
+corners represent what should be printed to the console.*/
 
 ![image](https://raw.githubusercontent.com/ARBUCHELI/FRONT-END-WEB-DEVELOPER-NANODEGREE/main/images/1.jpg)
-Flowchart for checking your balance at the ATM (Click the image to enlarge the flowchart).
+/*Flowchart for checking your balance at the ATM (Click the image to enlarge the flowchart).
 
 Use the following variables in your solution:
 
@@ -19,4 +19,43 @@ TIP: Make sure to test your code with different values. For example,
 If checkBalance equals true and isActive equals false, then Your account is no longer active. should be printed to the console.
 
 Your Code:*/
+
+/*
+ * Programming Quiz - Checking Your Balance (3-5)
+ */
+
+/*
+ * QUIZ REQUIREMENTS
+ * 1. Your code should have the variables `balance`, `checkBalance`, `isActive`
+ * 2. Your code should include an `if...else` conditional statement
+ * 3. Your code should produce the expected output
+ * 4. Your code should not be empty
+ * 5. BE CAREFUL ABOUT THE PUNCTUATION AND THE EXACT WORDS TO BE PRINTED. 
+ */
+ 
+// change the values of `balance`, `checkBalance`, and `isActive` to test your code
+var balance = -30;
+var checkBalance = true;
+var isActive = true;
+
+// your code goes here
+if (checkBalance === false) {
+    console.log("Thank you. Have a nice day!");
+}
+if (checkBalance === true) {
+    if (isActive === true && balance > 0) {
+        console.log("Your balance is $"+balance.toFixed(2)+".");
+    }
+    else if (isActive === false) {
+        console.log("Your account is no longer active.");
+    }
+    else if (isActive === true) {
+        if (balance === 0) {
+            console.log("Your account is empty.")
+        }
+        else if (balance < 0 ) {
+            console.log("Your balance is negative. Please contact bank.");
+        }
+    }
+}
 
