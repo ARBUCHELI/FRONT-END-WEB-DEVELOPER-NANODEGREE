@@ -2,7 +2,7 @@
 Using the flowchart below, write the code to represent checking your balance at the ATM. The yellow diamonds represent conditional statements and the blue rectangles with rounded 
 corners represent what should be printed to the console.
 
-![image](https://video.udacity-data.com/topher/2016/November/582cc7b8_atm-check-balance-cropped/atm-check-balance-cropped.jpeg)
+![image](https://raw.githubusercontent.com/ARBUCHELI/FRONT-END-WEB-DEVELOPER-NANODEGREE/main/images/1.jpg)
 Flowchart for checking your balance at the ATM (Click the image to enlarge the flowchart).
 
 Use the following variables in your solution:
