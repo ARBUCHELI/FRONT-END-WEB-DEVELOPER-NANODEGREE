@@ -10,7 +10,8 @@ Write a loop that prints out the following song. Starting at 99, and ending at 1
 Some Notes:
 
 Note the pluralization of the word "bottle" when you go from 2 bottles to 1 bottle.
-Your text editor may try to autocorrect your ellipses (...) to the ellipses character (…). Do not use the ellipses character for this quiz; use three consecutive periods instead.
+Your text editor may try to autocorrect your ellipses (...) to the ellipses character (…). Do not use the ellipses character for this quiz; use three consecutive 
+periods instead.
 Your Code:
 */
 
