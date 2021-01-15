@@ -1,5 +1,6 @@
 /*
-If you're like me, finding the right size t-shirt can sometimes be a challenge. What size am I? What's the difference between S (small), M (medium), and L (large)? I usually wear L, but what if I need an XL (extra large)?
+If you're like me, finding the right size t-shirt can sometimes be a challenge. What size am I? What's the difference between S (small), M (medium), and L (large)? I usually
+wear L, but what if I need an XL (extra large)?
 
 Thankfully, our friends at Teespring have got us covered because they've created a sizing chart to make things a lot easier.
 
@@ -13,7 +14,8 @@ XL	24"	31"	8.88"
 _T-Shirt Sizing Chart (Source: Teespring.com) _
 
 Directions:
-Use the sizing chart above, create a series of logical expressions that prints the size of a t-shirt based on the measurements of shirtWidth, shirtLength, and shirtSleeve. Valid sizes include S, M, L, XL, 2XL, and 3XL.
+Use the sizing chart above, create a series of logical expressions that prints the size of a t-shirt based on the measurements of shirtWidth, shirtLength, and shirtSleeve. 
+Valid sizes include S, M, L, XL, 2XL, and 3XL.
 
 For example, if...
 
@@ -22,7 +24,8 @@ var shirtLength = 30; // size L (large)
 var shirtSleeve = 8.71; // size L (large)
 Then print L to the console.
 
-Hint: You will need to compare a range of values when checking for shirtWidth, shirtLength, and shirtSleeve. For example, if the shirt's width is at least 20", but no more than 22", then the t-shirt should be medium (M) — as long as the other values for the shirt's length and sleeve measurements match up.
+Hint: You will need to compare a range of values when checking for shirtWidth, shirtLength, and shirtSleeve. For example, if the shirt's width is at least 20", but no more 
+than 22", then the t-shirt should be medium (M) — as long as the other values for the shirt's length and sleeve measurements match up.
 
 If shirtWidth, shirtLength, and shirtSleeve don't fit within the range of acceptable values for a specific size, then print NA to the console. For example, if...
 
