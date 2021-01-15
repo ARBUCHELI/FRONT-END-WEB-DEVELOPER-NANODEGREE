@@ -3,8 +3,8 @@ Write an if...else statement that:
 
 prints "even" if the number is an even number
 prints "odd" if the number is an odd number
-Hint: Use the % (modulo) operator to determine if a number is even or odd. The modulo operater takes two numbers and returns the remainder when the first number is divided by the
-second one:
+Hint: Use the % (modulo) operator to determine if a number is even or odd. The modulo operater takes two numbers and returns the remainder when the first number is divided by 
+the second one:
 
 console.log(12 % 3);
 console.log(10 % 4);
