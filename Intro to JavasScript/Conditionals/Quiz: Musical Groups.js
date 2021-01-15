@@ -1,7 +1,7 @@
 /*Musical groups have special names based on the number of people in the group.
 
-For example, a "quartet" is a musical group with four musicians. Barbershop quartets were a popular type of quartet in the early 1900s and featured four singers made up of a 
-lead, tenor, baritone, and bass.
+For example, a "quartet" is a musical group with four musicians. Barbershop quartets were a popular type of quartet in the early 1900s and featured four singers made up 
+of a lead, tenor, baritone, and bass.
 
 Directions:
 Write a series of conditional statements that:
