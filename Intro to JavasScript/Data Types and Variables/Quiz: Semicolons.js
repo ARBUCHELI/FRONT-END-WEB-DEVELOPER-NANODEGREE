@@ -9,8 +9,8 @@ vs.
 
 var totalAfterTax = 53.03; var tip = 8; // this is correct!
 
-Not adding semicolons to the end of each line can cause bugs and errors in your programs. JavaScript does have ways to occasionally predict where semicolons should be, but just 
-like how type coercion can result in some unexpected quirky behavior in JavaScript, it's good practice to not depend on it.
+Not adding semicolons to the end of each line can cause bugs and errors in your programs. JavaScript does have ways to occasionally predict where semicolons should be, 
+but just like how type coercion can result in some unexpected quirky behavior in JavaScript, it's good practice to not depend on it.
 
 Directions for the Quiz Below:
 Define two variables called thingOne and thingTwo and assign them values. Print the values of both variables in one console.log statement using concatenation. For example,
