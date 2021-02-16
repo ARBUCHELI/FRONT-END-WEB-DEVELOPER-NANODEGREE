@@ -1,6 +1,6 @@
 /*Directions:
-Mad Libs is a word game where players have fun substituting words for blanks in a story. For this exercise, use the adjective variables below to fill in the blanks and complete
-the following message.
+Mad Libs is a word game where players have fun substituting words for blanks in a story. For this exercise, use the adjective variables below to fill in the
+blanks and complete the following message.
 
 "The Intro to JavaScript course is __________. James and Julia are so __________. I cannot wait to work through the rest of this __________ content!"
 var adjective1 = "amazing";
