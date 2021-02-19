@@ -26,7 +26,8 @@ TIP: To print out the average salary with commas (i.e. 59,124), use the toLocale
 
 TIP: Make sure to test your code with different values. For example,
 
-If education equals "an Associate's degree", then the string"In 2015, a person with an Associate's degree earned an average of $41,496/year." should be printed to the console.
+If education equals "an Associate's degree", then the string"In 2015, a person with an Associate's degree earned an average of $41,496/year." should be printed to the 
+console.
 
 Your Code:*/
 
