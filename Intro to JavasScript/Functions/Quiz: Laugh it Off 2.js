@@ -8,6 +8,8 @@ Here's an example of the output and how to call the function that you will write
 console.log(laugh(3));
 Prints: "hahaha!"
 
+Your Code:
+
 /*
  * Programming Quiz: Laugh it Off 2 (5-2)
  *
