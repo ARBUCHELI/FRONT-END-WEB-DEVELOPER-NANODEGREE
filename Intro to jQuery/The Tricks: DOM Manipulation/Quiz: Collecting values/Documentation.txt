@@ -1,0 +1,7 @@
+https://api.jquery.com/val/
+
+https://api.jquery.com/html/
+
+https://api.jquery.com/text/
+
+https://api.jquery.com/category/events/
