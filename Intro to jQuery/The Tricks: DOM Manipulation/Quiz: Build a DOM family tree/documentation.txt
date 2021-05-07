@@ -1,0 +1,8 @@
+https://api.jquery.com/append/
+
+https://api.jquery.com/prepend/
+
+https://api.jquery.com/insertBefore/
+
+Documentation on .insertAfter()
+
